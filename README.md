@@ -1,16 +1,31 @@
-## Hi there 👋
+<a href=#><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/refs/heads/main/Images/LightItBannerDarkMode.png" width="100%" style="pointer-events: none; cursor: nw-resize;"> 
 
-<!--
-**jsegovia-sweatworks/jsegovia-sweatworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/hand30.gif" width="30px"></a> Hi, my name is Joaquin Segovia.
 
-Here are some ideas to get you started:
+I work as a Software Developer (Front-End) at <a href="https://www.sweatworks.com/">SweatWorks</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm based on Montevideo, Uruguay
+
+You can know more about me on
+<a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
+<a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
+<a href="https://github.com/joasegovia9427"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/GitHubIconPersonal.png" alt="PersonalGitHub" style="max-width: 100%; height: 20px;"></a>
+<a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/PortfolioIconB.png" alt="Portfolio" style="max-width: 100%; height: 22px;"></a>
+  
+  
+<a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
+
+Trabajo como Software Developer (Front-End) en <a href="https://www.sweatworks.com/">SweatWorks</a>
+  
+Vivo en Montevideo Uruguay
+
+Puedes saber mas sobre mi en
+<a href="https://uy.linkedin.com/in/joaquinsegovia"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/LinkedinIcon20h.png" alt="Linkedin" style="max-width: 100%;">
+<a href="https://youtube.com/playlist?list=PL2dq_pIVanOA9tDSCewx7Vaz9aholVPW-"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/YoutubeIcon.png" alt="YoutubeProfile" style="max-width: 100%;"></a>
+<a href="https://github.com/joasegovia9427"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/GitHubIconPersonal.png" alt="PersonalGitHub" style="max-width: 100%; height: 20px;"></a>
+<a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/PortfolioIconB.png" alt="Portfolio" style="max-width: 100%; height: 22px;"></a>
+
+
+  
+<!-- If you are reading this... thanks to you for being curious about how I made this file...
 -->
