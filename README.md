@@ -1,4 +1,4 @@
-<a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/hand30.gif" width="30px"></a> Hi, my name is Joaquin Segovia.
+🇬🇧 <a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/hand30.gif" width="30px"></a> Hi, my name is Joaquin Segovia.
 
 I work as a Software Developer (Front-End) at <a href="https://www.sweatworks.com/">SweatWorks</a>
 
@@ -11,7 +11,7 @@ You can know more about me on
 <a href="https://joasegovia9427.github.io"><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/PortfolioIconB.png" alt="Portfolio" style="max-width: 100%; height: 22px;"></a>
   
   
-<a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
+🇪🇸 <a style="pointer-events: none; cursor: nw-resize;" href=#><img src="https://raw.githubusercontent.com/jsegovia-sweatworks/jsegovia-sweatworks/main/Images/hand30.gif" width="30px" style="pointer-events: none; cursor: nw-resize;"></a> Hola, mi nombre es Joaquin Segovia.
 
 Trabajo como Software Developer (Front-End) en <a href="https://www.sweatworks.com/">SweatWorks</a>
   
